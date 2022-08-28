@@ -1,2 +1,3 @@
-# rust-add-library
-A library for adding numbers.
+# rust-reverse-string
+
+A string reversal package written for educational purposes.

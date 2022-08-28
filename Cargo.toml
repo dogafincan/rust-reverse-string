@@ -1,14 +1,15 @@
 [package]
-name = "doga-add-numbers"
+name = "doga-reverse-string"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-description = "An add numbers package written for educational purposes."
+description = "A string reversal package written for educational purposes."
 homepage = "https://github.com/dogafincan"
-repository = "https://github.com/dogafincan/rust-add-numbers-library/"
+repository = "https://github.com/dogafincan/rust-reverse-string/"
 readme = "README.md"
-keywords = ["math", "add", "numbers"]
+keywords = ["string", "reverse"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+unicode-segmentation = "1.9.0"
